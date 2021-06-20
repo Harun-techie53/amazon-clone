@@ -1,0 +1,14 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+.products__card{
+    margin: 10px;
+}
+
+.products__detail{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}

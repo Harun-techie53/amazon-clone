@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+}
+
+.app{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: #203040;
+    margin: none;
+}
+
+.app__footer{
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #203040;
+    color: white;
+    padding: 1rem;
+    margin-bottom: none;
+}
+
+.app__footer > span {
+    text-align: center;
+}

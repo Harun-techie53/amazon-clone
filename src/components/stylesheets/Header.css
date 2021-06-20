@@ -1,0 +1,36 @@
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.header__menuIcon{
+    z-index: 10
+}
+
+.header__text{
+    color: #f4f4f4;
+}
+
+.search__input{
+    margin: none;
+    border: none;
+}
+
+.header__container{
+    margin-left: auto;
+}
+
+.header__searchBar{
+    margin: auto;
+    width: 30%;
+    border-radius: 5px;
+}
+
+.searchBar{
+    border: none;
+}
+
+.searchIcon{
+    background-color: rgba(255, 136, 0, 0.842);
+}
